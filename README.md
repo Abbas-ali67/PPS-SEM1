@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **6** |
-| 🟡 Medium | **3** |
+| 🟢 Easy | **1** |
+| 🟡 Medium | **4** |
 | 🔴 Hard | **0** |
-| **Total** | **9** |
+| **Total** | **5** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C | **9** |
+| C | **5** |
 
 ## 📂 Repository Structure
 
