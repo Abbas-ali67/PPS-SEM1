@@ -42,9 +42,9 @@ Explanation: 2 does not exist in nums so return -1
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.3 MB  
-**Submitted:** 2026-11-25T14:17:24.719Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 31.3 MB (beats 28.68%)  
+**Submitted:** 2026-11-25T14:18:08.411Z  
 
 ```cpp
 class Solution {
